@@ -1,4 +1,4 @@
-![CI](https://github.com/sdw200t/http_dz/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/sdw200t/http-frontend/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "7. Работа с HTTP"
 
